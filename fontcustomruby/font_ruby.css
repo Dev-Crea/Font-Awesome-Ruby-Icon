@@ -4,7 +4,7 @@
   src: url("./font_ruby.eot?#iefix") format("embedded-opentype"),
        url("./font_ruby.woff") format("woff"),
        url("./font_ruby.ttf") format("truetype"),
-       url("./font_ruby.svg#fontcustom") format("svg");
+       url("./font_ruby.svg#fontcustomruby") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -12,7 +12,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustomruby";
-    src: url("./font_ruby.svg#fontcustom") format("svg");
+    src: url("./font_ruby.svg#fontcustomruby") format("svg");
   }
 }
 
@@ -36,5 +36,5 @@
   font-smoothing: antialiased;
 }
 .fa-ruby:before {
-   content: "\f100";
+  content: "\f100";
 }
