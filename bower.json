@@ -4,8 +4,14 @@
   "authors": [
     "vaillant.jeremy@dev-crea.com"
   ],
-  "description": "Font ruby",
-  "main": "",
+  "description": "Icon font ruby",
+  "main": [
+    "./fontcustomruby/font_ruby.css",
+    "./fontcustomruby/font_ruby.eot",
+    "./fontcustomruby/font_ruby.svg",
+    "./fontcustomruby/font_ruby.ttf",
+    "./fontcustomruby/font_ruby.woff"
+  ],
   "moduleType": [
     "globals"
   ],
